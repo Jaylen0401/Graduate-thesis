@@ -1,1 +1,9 @@
-# Graduate-thesis
+An analysis on interaction between chromosomes in a 3-D space
+===
+Longsheng Xie
+---
+
+
+Abstract:
+---
+For all the time, there is considerable interest in defining the complete set of human protein complexes—currently, hu.MAP(http://proteincomplexes.org) gives us a valuable source for a better understanding of the core cellular functions of human proteins and helping to know which proteins will work together(Kevin Drew et al., Molecular Systems Biology, 2017). And with the advancement of biology and all aspects of science, people's ideas about predicting three-dimensional (3-D) chromosome and genome structures have become more mature. Therefore, the Hi-C data, which stores the interaction strength of different sites of each chromosome of humans, has been more and more frequently used by people. Therefore, based on hu.MAP and Hi-C data, we can summarize the strength of each pair of genes in the human protein complexes. However, according to our observation, most of the interacting genes are not on the same chromosome, so we divided them into two groups (1. On the same chromosome, 2. On different chromosomes). In this work, we hypothesize that no matter whether each pair of interacting genes is located on a unified chromosome, and no matter how far apart they are, when they play a role in the human body, they will be folded together in 3-D space. For each pair of genes in the human protein complex, we generated 100 pairs of control groups. And then observed the distributions of experimental data and control group for the same chromosome and different chromosomes. After that, for the gene pairs located on the same chromosome, we compared it with the Topologically associating domain (TAD). Through the method of statistical testing, we found that tad is the most critical factor affecting the interaction between genes, and whether the interaction between proteins has an effect on the folding of chromosomes in the 3d space requires more in-depth research.
